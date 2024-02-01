@@ -1,0 +1,18 @@
+<?php 
+
+/*	INSTRUCTIONS
+	==========================================================
+	- Upload this file to your server and then go to the file in your browser (e.g. http://example.com/phpinfo.php). 
+	- It will autmoatically download Godaddy's PHP5.ini file to your server. 
+	- Please delete this file once you are finished with it.
+*/
+   
+	//phpinfo();
+	$file = "php5.ini"; 									/* Name of the final file you want to create */
+	$handle = fopen($file, 'w'); 							/* open (clean) / create the file 'php5.ini' */
+	$vData = file_get_contents('/web/conf/' . $file); 		/* Replace '/web/conf/' to '/your/path/here' if this does not work by default. */
+	fwrite($handle, $vData);  								/* write the contents of Godaddy's php5.ini to your php5.ini file */
+	print "File Saved!";  									/* Tell you it's saved (sorry didn't test for exceptions) */
+	fclose($handle); 										/* clean up */
+
+?>

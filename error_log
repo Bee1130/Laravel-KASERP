@@ -1,0 +1,1415 @@
+[17-Feb-2022 13:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-Feb-2022 14:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Feb-2022 00:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Feb-2022 11:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Feb-2022 15:36:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Feb-2022 17:04:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Feb-2022 16:10:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-Feb-2022 13:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-Feb-2022 22:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-Feb-2022 14:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Feb-2022 23:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[01-Mar-2022 16:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[02-Mar-2022 15:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[03-Mar-2022 19:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[04-Mar-2022 18:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[05-Mar-2022 17:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Mar-2022 12:12:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Mar-2022 04:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Mar-2022 04:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Mar-2022 12:02:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Mar-2022 04:19:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Mar-2022 09:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Mar-2022 13:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-Mar-2022 07:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-Mar-2022 20:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Mar-2022 02:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Mar-2022 19:04:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Mar-2022 18:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Mar-2022 04:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Mar-2022 10:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Mar-2022 19:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Mar-2022 04:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Mar-2022 07:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Mar-2022 11:03:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Mar-2022 18:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-Mar-2022 16:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[27-Mar-2022 04:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[27-Mar-2022 19:13:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Mar-2022 22:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Mar-2022 23:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-Mar-2022 22:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-Mar-2022 03:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-Mar-2022 22:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[31-Mar-2022 06:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[01-Apr-2022 11:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[02-Apr-2022 12:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[03-Apr-2022 23:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[04-Apr-2022 11:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[04-Apr-2022 21:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[05-Apr-2022 01:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Apr-2022 02:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Apr-2022 02:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[08-Apr-2022 06:33:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[09-Apr-2022 10:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[10-Apr-2022 00:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[10-Apr-2022 13:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-Apr-2022 15:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-Apr-2022 15:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Apr-2022 16:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-Apr-2022 05:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-Apr-2022 17:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-Apr-2022 13:00:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-Apr-2022 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Apr-2022 20:43:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Apr-2022 16:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Apr-2022 20:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Apr-2022 21:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-Apr-2022 08:08:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-Apr-2022 21:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[27-Apr-2022 17:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Apr-2022 10:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-Apr-2022 09:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-Apr-2022 23:08:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[03-May-2022 11:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[05-May-2022 17:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[09-May-2022 05:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-May-2022 03:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-May-2022 05:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-May-2022 11:27:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-May-2022 23:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-May-2022 06:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-May-2022 16:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-May-2022 01:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-May-2022 10:57:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-May-2022 12:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-May-2022 01:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-May-2022 12:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-May-2022 16:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-May-2022 21:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-May-2022 02:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-May-2022 07:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-May-2022 07:27:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-May-2022 08:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-May-2022 09:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-May-2022 22:57:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-May-2022 00:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-May-2022 10:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-May-2022 10:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-May-2022 11:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-May-2022 21:37:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-May-2022 23:35:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-May-2022 00:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-May-2022 09:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-May-2022 12:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-May-2022 13:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-May-2022 21:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-May-2022 00:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-May-2022 09:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-May-2022 13:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-May-2022 13:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-May-2022 23:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[19-May-2022 02:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[19-May-2022 22:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[19-May-2022 23:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[19-May-2022 23:45:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-May-2022 00:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-May-2022 10:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-May-2022 20:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-May-2022 20:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-May-2022 22:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-May-2022 22:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-May-2022 14:08:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-May-2022 23:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 00:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 00:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:16:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 11:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:10:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:15:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:16:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 12:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 13:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 15:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-May-2022 15:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-May-2022 01:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-May-2022 02:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-May-2022 03:17:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-May-2022 04:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-May-2022 10:14:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 00:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 02:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 02:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 05:28:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 06:57:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 07:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-May-2022 10:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 00:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 04:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 05:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 05:15:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 08:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 08:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 13:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-May-2022 21:12:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-May-2022 13:31:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[27-May-2022 08:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-May-2022 09:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-May-2022 10:02:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-May-2022 03:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-May-2022 16:23:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-May-2022 07:24:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-May-2022 10:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[01-Jun-2022 06:15:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[03-Jun-2022 04:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[05-Jun-2022 04:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Jun-2022 00:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-Jun-2022 09:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Jun-2022 00:33:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-Jun-2022 07:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Jun-2022 22:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Jun-2022 22:48:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-Jun-2022 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-Jun-2022 05:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-Jun-2022 08:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-Jun-2022 16:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-Jun-2022 19:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jun-2022 09:02:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jun-2022 09:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jun-2022 09:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jun-2022 09:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jun-2022 09:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jun-2022 09:03:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Jun-2022 06:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Jun-2022 10:33:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Jun-2022 11:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-Jun-2022 15:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-Jun-2022 04:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-Jun-2022 14:19:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Jul-2022 07:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Jul-2022 20:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Jul-2022 20:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[10-Jul-2022 23:15:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-Jul-2022 01:47:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Jul-2022 22:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Jul-2022 16:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-Jul-2022 18:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[21-Jul-2022 06:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Jul-2022 04:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Jul-2022 10:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-Jul-2022 13:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Jul-2022 22:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-Jul-2022 10:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[31-Jul-2022 21:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[01-Aug-2022 11:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[03-Aug-2022 10:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[08-Aug-2022 22:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[10-Aug-2022 15:45:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-Aug-2022 06:53:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Aug-2022 09:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-Aug-2022 09:35:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Aug-2022 11:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Aug-2022 17:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-Aug-2022 00:02:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[19-Aug-2022 22:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Aug-2022 00:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[23-Aug-2022 09:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Aug-2022 07:24:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[25-Aug-2022 12:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[26-Aug-2022 18:11:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[27-Aug-2022 23:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[28-Aug-2022 15:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-Aug-2022 07:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[31-Aug-2022 04:35:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[01-Sep-2022 03:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[05-Sep-2022 19:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Sep-2022 01:21:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Sep-2022 04:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[10-Sep-2022 23:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-Sep-2022 10:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Sep-2022 13:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-Sep-2022 09:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[15-Sep-2022 13:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Sep-2022 15:47:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[16-Sep-2022 23:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-Sep-2022 13:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[18-Sep-2022 13:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-Sep-2022 15:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Sep-2022 11:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[22-Sep-2022 14:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[24-Sep-2022 10:18:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[29-Sep-2022 08:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[30-Sep-2022 06:36:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[01-Oct-2022 03:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[02-Oct-2022 01:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[05-Oct-2022 14:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[06-Oct-2022 06:38:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[07-Oct-2022 07:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[08-Oct-2022 12:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[08-Oct-2022 17:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[08-Oct-2022 17:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[08-Oct-2022 21:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[11-Oct-2022 00:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[12-Oct-2022 12:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[13-Oct-2022 02:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[14-Oct-2022 08:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[17-Oct-2022 19:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[19-Oct-2022 03:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5
+[20-Oct-2022 19:41:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/kaserp/public_html/crm/includes/dbconnect.php:5
+Stack trace:
+#0 /home/kaserp/public_html/crm/index.php(11): require_once()
+#1 {main}
+  thrown in /home/kaserp/public_html/crm/includes/dbconnect.php on line 5

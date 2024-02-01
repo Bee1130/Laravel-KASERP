@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>DirectFunder</title>	
+	
+</head>
+<body style="margin:0px;">
+<div class="page" style="width:650px">
+	<div class="darkbg">
+		<div class="menu">
+			<div style="padding-top:0px;width:650px;background-color:#252c3e;height:65px;">
+			<table border="0" cellpadding="0" style="width:650px;height:55px;border-bottom:2px solid #f7941e;">
+			<tr>
+			<td style="width:130px;padding-left:10px;vertical-align:bottom;">
+				<a href="http://www.directfunder.com"><img src="http://www.directfunder.com/mail/logo.png"></a>
+			</td>
+			<td style="text-align:right;padding-right:20px;color:#FFFFFF;font-size:22px;padding-top:10px;">
+				Call 800-680-5379
+			</td>
+			</tr>
+			</table>
+			</div>
+		</div>
+	</div>
+	<div class="section-2 cf" style="font-size:16px;color:#000000;" >
+		<div style="padding:10px;padding-bottom:0px;">
+		<span style="font-weight:bold;text-decoration:underline">BASIC INFORMATION </span>
+		</div>
+		<div style="padding:10px;">
+		<table border="0" cellpadding="0" style="width:100%">
+			<tr>
+				<td>FULL NAME: </td><td>{{name}}
+				</td>
+			</tr>
+			<tr>
+				<td>MOBILE PHONE: </td><td>{{phone}}
+				</td>
+			</tr>
+			<tr>
+				<td>EMAIL: </td><td>{{Email}}
+				</td>
+			</tr>
+			<tr>
+				<td>AMOUNT NEEDED: </td><td>{{amountNeeded}}
+				</td>
+			</tr>
+			<tr>
+				<td>Comment: </td><td>{{comment}}
+				</td>
+			</tr>
+		</table>
+		</div>
+
+</div>
+	
+</body>
+</html>

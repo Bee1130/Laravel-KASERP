@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>DirectFunder</title>	
+	
+</head>
+<body style="margin:0px;">
+<div class="page" style="width:650px">
+	<div class="darkbg">
+		<div class="menu">
+			<div style="padding-top:0px;width:650px;background-color:#252c3e;height:65px;">
+			<table border="0" cellpadding="0" style="width:650px;height:55px;border-bottom:2px solid #f7941e;">
+			<tr>
+			<td style="width:130px;padding-left:10px;vertical-align:bottom;">
+				<a href="http://www.directfunder.com"><img src="http://www.directfunder.com/mail/logo.png"></a>
+			</td>
+			<td style="text-align:right;padding-right:20px;color:#FFFFFF;font-size:22px;padding-top:10px;">
+				Call 800-680-5379
+			</td>
+			</tr>
+			</table>
+			</div>
+		</div>
+	</div>
+	<div class="section-2 cf" style="font-size:14px;width:650px;color:#000000;">
+		<div style="padding:20px;text-align:center;text-decoration:underline;font-size:22px;font-weight:bold;">The Direct Funder Process</div>
+		<div style="padding:20px;">It is essential to understand that the Direct Funder program is a process. Just as one cannot develop an 800 credit score overnight, a business’ credit must also be “developed”. However, with a strategic plan it is possible to obtain an 80 Paydex (800 FICO equivalent) credit rating for your company within just one year. However, waiting a year to get working capital just isn’t practical. Therefore, we address this immediate need with Working Capital Credit Lines and use the business owner’s credit to jump start the process. The goal of the Direct Funder program is to meet your funding needs today and help you prepare for the future. The path to these incredible results can be achieved by following a systematic, master planned design that can only be formulated from Direct Funder’s more than 20 years of combined experience in the finance industry. </div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		1. 	<span style="font-weight:bold;">Credit Analysis</span> – Week 1 
+		<ul>
+			<li>We provide a comprehensive review of the client’s credit file in order to qualify whether or not we can provide a guarantee, and for how much. We also determine if there is any “window dressing” that would enhance the appeal of a client’s credit to bank underwriters. </li>
+			<li>We understand exactly how the banks underwrite and what they do and don’t want to see. Our credit analysis makes absolutely certain that our clients will get the most approvals at the highest limits with the best possible terms. </li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		2. 	<span style="font-weight:bold;">Cash Credit Applications</span> – Unsecured Credit Lines – Target $75-150k – Weeks 2-3 
+		<ul>
+			<li>Applications will result in as many lines that do not appear on personal credit as possible.</li>
+			<li>All submissions use stated income; therefore, you and your business are not required to furnish any financials or tax returns.</li>
+			<li>Every line offers 0% for 6-12 months, allowing for a revenue ramp up period from the new capital investment(s).</li>
+			<li>All credit lines are unsecured, meaning no matter what happens, your home, savings, retirement, investments and ALL assets are 100% safe, secure and insulated from any recourse. </li>
+			<li>You and your business establish relationships with multiple banking partners immediately, thus seeding your company’s financial future with a multitude of valuable lending partners. </li>
+			<li>Limit increases available after 60 -90 days for most lines.</li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		3. 	<span style="font-weight:bold;">Liquidation</span> -Week 4 
+		<ul>
+			<li>Direct Funder is abundantly aware that the majority of business expenditures require cash.</li>
+			<li>Our consultation will assist in liquidation of the credit lines into cash, at 0%, in the amount needed to properly capitalize the business or investment. </li>
+			<li>NO OTHER financing option in existence can offer CASH with a 0% interest period. </li>
+			<li>Only through Direct Funder’s proprietary understanding of hundreds of individual bank’s underwriting and logistical protocols are such extraordinary results possible.</li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		4. 	<span style="font-weight:bold;">DUNS Number and Supply Line Applications</span> – Week 8 
+		<ul>
+			<li>An application for a DUNS number (akin to a social security number for your business) is filed with Dunn and Bradstreet. </li>
+			<li>Applications submitted to establish vendor/supplier accounts.  </li>
+			<li>Industry specific vendor analysis determines precise list of suppliers. </li>
+			<li>Many lines are not personally guaranteed, therefore supply accounts report 
+				<ul>
+				<li>Direct Funder recommends a specific list of creditors that are known to report to all three business credit reporting agencies. </li>
+				<li>Vendor accounts are actually more important in developing the company’s credit rating and the ONLY way to ultimately obtain non-personally guaranteed cash lines.  </li>
+				</ul>
+			</li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		5. 	<span style="font-weight:bold;">Credit Utilization Consultation</span> – Weeks 3 – 24 
+		<ul>
+			<li>Consult client on how to strategically utilize cash and supply lines in order to maximize business credit rating and minimize interest.</li>
+			<li>Systematically request credit line increases.</li>
+			<li>Advise client on exactly what time frames each bank requires before a line increase. </li>
+			<li>Goal is to eventually double line limits.</li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		6. 	<span style="font-weight:bold;">Reallocation</span> – Week 24 and On 
+		<ul>
+			<li>Once relationships have been established and lines liquidated and revolved, Direct Funder’s consulting will assist client in methodically reallocating credit lines that report to personal credit into non-personally reporting credit lines.</li>
+			<li>Can also assist client in reallocating any personal credit client possessed before entering into the Direct Funder program. </li>			
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:0px;">
+		7. 	<span style="font-weight:bold;">Paydex/Business Credit Score Engineering</span> – Week 24 and On 
+		<ul>
+			<li>With the appropriate combination of trade lines and seasoning of the business credit profile, the scoring models of the business credit bureaus can then begin to assign a rating. </li>
+			<li>If Direct Funder’s consulting is followed faithfully and payments made on accounts are made as agreed, a Paydex score of 80 or higher can be achieved within 6 to 12 months.  </li>
+			<li>Once the 80 Paydex score is obtained, a client’s business will be offered additional unsolicited, PREAPPROVED credit offers. </li>
+			<li>This is the ultimate goal: Continuous credit offers made by banks on the best terms. When your business needs additional funding, just take your pick. Your business will no longer need to seek working capital…. banks will find you! </li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:10px;padding-bottom:20px;">
+		The fee for Direct Funder’s consultation allows us to impart our knowledge and protect your business from potential pitfalls as well as greatly reduce interest expense. The cost of errors in credit procurement and development can be disastrous, and when time is money, not having the working capital your business needs can be extraordinarily expensive and devastating. Direct Funder eliminates all of the guess work and presents a funding strategy with a 98% SUCCESS RATE. The Direct Funder proprietary credit development system has been derived and refined to a fundamental design from over two decades of research and leveraging an unmatched understanding of the credit markets and bank underwriting methodology. Simply put, it cannot be recreated. 
+		</div>
+		
+	</div>
+	<div class="darkbg" style="background-color:#252c3e;">
+		<div class="menu" style="margin:0px auto;text-align:center;height:80px;padding-top:12px;border-bottom:5px solid #f7941e;">
+				<div>
+					<img src="http://www.directfunder.com/mail/logof.png">
+				</div>
+				<div class="copyright" style="color:#c9c8c6;font-size:20px;font-weight:bold;">© 2015 <a href="http://www.directfunder.com" style="color:#c9c8c6;font-size:20px;font-weight:bold;text-decoration:none;">www.DirectFunder.com</a></div>
+		</div>
+	</div>
+</div>
+	
+</body>
+</html>

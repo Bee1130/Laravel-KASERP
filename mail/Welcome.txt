@@ -1,0 +1,634 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>DirectFunder</title>	
+	
+</head>
+<body style="margin:0px;">
+<div class="page" style="width:650px">
+	<div class="darkbg">
+		<div class="menu">
+			<div style="padding-top:0px;width:650px;background-color:#252c3e;height:65px;">
+			<table border="0" cellpadding="0" style="width:650px;height:55px;border-bottom:2px solid #f7941e;">
+			<tr>
+			<td style="width:130px;padding-left:10px;vertical-align:bottom;">
+				<a href="http://www.directfunder.com"><img src="http://www.directfunder.com/mail/logo.png"></a>
+			</td>
+			<td style="text-align:right;padding-right:20px;color:#FFFFFF;font-size:22px;padding-top:10px;">
+				Call 800-680-5379
+			</td>
+			</tr>
+			</table>
+			</div>
+		</div>
+	</div>
+	<div class="section-2 cf" style="font-size:14px;width:650px;color:#000000;" >
+		<div style="padding:20px;padding-bottom:0px;">Dear Business Owner, </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">At Direct Funder we strive to provide Entrepreneurs and potential Entrepreneurs with the funding, knowledge and understanding needed to make their American Dreams a reality.</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Our clients have received 100’s of millions of dollars in unsecured credit lines and range from some of the largest and most recognized franchise brands to the smallest mom and pop neighborhood stores. We have helped inventors bring ideas to life and assisted struggling businesses survive through tough times. Now we want to help you and your business become more successful. </div>
+		<div style="padding:20px;padding-top:15px;">
+		We understand how Banks and Creditors operate and that there are many aspects that will be considered before an approval is granted. Preparation and understanding are the keys to getting the results you demand. With our extensive database of bank programs, guideline criteria and approval metrics, you will have EVERY advantage. Some people might even say an unfair advantage, but we haven’t heard any of our clients complain yet! We treat credit, especially business credit, as a tool and to get the best out of any tool you must become an expert in its use. Direct Funder will teach you how to attain and utilize all the benefits that business credit can provide. With our help we are certain that you will exponentially increase your business’ chance of success. 
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">Our Commitment to You and Your Business</span> </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Our program is based 100% on STATED income and will result in $50,000+ in CASH Business Credit Lines or it’s absolutely free. </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Direct Funder will not only provide qualified clients with a Guaranteed $50,000 in cash credit lines but also provide 12 months of consulting to help minimize interest, obtain line increases and establish a strong business credit rating. </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Included in this document are the qualifications for our program. Like a Bank, we must determine the creditworthiness of the individual managing the finances of the business. Once an individual has been qualified for our program, our rate of successful funding is 98% with an average of $80,000 raised in the first 30 days. After 6-12 months those averages increase to more than $125,000 in unsecured revolving business credit lines. </div>
+		<div style="padding:20px;padding-top:15px;">
+		We look forward to developing your business credit together! 
+		</div>
+		<div style="padding:20px;padding-bottom:0px;">
+		<span style="font-size:18px;font-weight:bold;">The Direct Funder Team </span></div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">How does our program compare to other options in financing a business?  </span>
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Direct Funder chooses the banks and programs that are most likely to grant credit to the business on the absolute best terms. We then facilitate relationships with multiple banks and begin to develop a business credit rating for the company.  </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Those bank relationships are leveraged by the business owner and when combined with a strong business credit rating will provide funding options for growth for many years to come.</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">Direct Funder vs. 401(k) Rollover/Cash-out: </span></div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		In the recent economic downturn, coupled with unprecedented volatility within the equity markets, many individuals have unfortunately seen their 401(k) accounts shrink dramatically. As a rule of thumb it is recommended that an individual have a minimum of $50,000 in their 401(k) account for it to be a viable business start-up funding option. But considering that the average 401(k) account balance in the country today is roughly $70,000, this option is just simply not feasible for many aspiring entrepreneurs. </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		However, those that do utilize the self directed 401(k) option, very often use it in conjunction with the Direct Funder program. This allows for access to a greater initial capital investment that often affords the business a strategic operating capital reserve or the prospect for a higher revenue business opportunity. Additionally, clients that use the combination of 401(k) and Direct Funder have access to the entire year of consulting that ensures the capital acquired from both conduits will be utilized in a calculated method, thus giving the fledgling business the highest chance for ultimate success. 
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">Direct Funder vs. SBA: </span></div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Time is of the essence! The typical SBA underwriting timeframe is 45-180 days, with no guarantee of funding at the end of the process! Pre-approved Direct Funder clients can obtain their first credit lines within 24 hours of an application being submitted. The vast majority of our clients will reach the guaranteed $50k minimum within 7-10 days of initial submission.  </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Rates for SBA loans are also quite burdensome, most are within the 9-13% range, whereas most of the Direct Funder established credit lines have a 0% introductory rate for 6-15 months and average 7-8% once the promotional rates expire. Also, SBA loans are a collateral program. The government will require the placement of a lien on the owner or family member’s assets (typically a home). Again, if the business were to fail, the collateralized assets will become Uncle Sam’s.
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">Direct Funder vs. Home Equity line of Credit: </span></div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		In the current credit environment obtaining a HELOC is just simply not a viable option. Even if a bank did offer a HELOC product, the underwriting guidelines would require full income documentation and verification. As we all know, most self employed borrowers try to show as little in personal income to avoid taxes and simply cannot traditionally “prove” income to support a reasonable debt ratio.  </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Further, HELOCs are personal lines of credit that WILL report on the individual’s credit report. A $50-100k maxed HELOC can have a tremendous negative impact on a credit score and create the inability to obtain future financing. </div> 
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Last, HELOC’s, by virtue of its very name, are collateralized loans. It is a frightening prospect to think that if the business were to fail, the business owner and his/her family could potentially be homeless.  </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		The Direct Funder Program uses a 100% STATED application with absolutely no income verification required. 80-90% of the funds raised will never report to personal credit as long as timely payments are made. And since the lines are unsecured, the business owner can rest assured that his/her home is safe regardless of what happens with the business.
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">Direct Funder vs. Other Business Credit Companies: </span></div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		For quite some time Direct Funder was the only name is business capital acquisition consulting, however recently, copycats have sprung up who have seen our success and have tried to recreate and reverse engineer the Direct Funder program. Don’t be fooled by fancy websites with long winded empty quotes, fake testimonials or “Founders” telling you they have years of experience.  </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		Only Direct Funder is accredited by the Better Business Bureau and has the knowledge, the system and results to back our $50,000 guarantee. Don’t risk your business’ future on an amateur company with no (or embellished) experience. Seed Capital’s steadfast success is the result of years of research, in-depth understanding, a large highly trained staff and simply cannot be recreated. We encourage you to take your time when deciding who to work with when it comes to your business’ financing; and please do your own due diligence. We are confident you will come to the conclusion that Direct Funder is the most prosperous, forthcoming and trusted organization in the business capital consulting industry. 
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;text-align:center;font-weight:bold;">
+		<span style="font-size:22px;font-weight:bold;text-decoration:underline;color:#FF0000">The Winner = Direct Funder+ ( You & Your Business)</span>
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;text-align:center;font-weight:bold;">
+		Program Qualification Criteria 
+		</div>
+		<div style="padding:20px;">
+		The cornerstone to the Direct Funder process is excellent personal credit. Banks understand that it requires many years of managing payments and creating great financial habits in order to develop an exceptional credit rating. Banks will assume that the person within the business that is qualifying for the credit lines will use those same proven habits to manage the company’s finances. Therefore, banks are willing, in essence, to allow such an individual to “co-sign” for lines of credit on the company’s behalf with the newly established credit only reporting in the company’s name and not on the personal credit file of the guarantor. </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		This credit requirement, however, acts as a double edged sword. It is great credit that allows us to continually achieve such profound results, but alternatively, not having pristine credit is also the main reason we are unable to assist many interested entrepreneurs. But keep in mind, it is not always the “business owner” themselves that must qualify for the credit lines; it can be any partner, family member or friend associated with the business willing to allow the company to use their credit as a valuable asset for working capital acquisition.  </div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		When considering the Direct Funder program, please keep in mind our minimum credit criteria are as follows: 
+		<ul>
+			<li>MINIMUM 720 FICO – However often times with a few minor adjustments we can, in just a few days, raise a client’s score 30 -50 points! 
+			</li>
+			<li>No more than one 30 day late on any account in the past two years. 
+			</li>
+			<li>No open collection accounts – We have an extremely high success rate of removing closed collection accounts, however, any open collections must be paid or successfully negotiated upon entering our program. 
+			</li>
+			<li>No Bankruptcies still reporting on the credit file – BK’s that have seasoned and no longer report are fine. 
+			</li>
+			<li>Relatively low usage on existing revolving accounts – As a rule of thumb 50% usage or less will create the best results.
+			</li>
+			<li>Minimum of one open revolving account with a limit of $5k or more established for at least 3 years.
+			</li>
+			<li>No open liens or judgments. 
+			</li>
+			<li>Low recent credit inquiry activity – Depending on the exact pattern, 4-6 inquiries in the last 6 months would typically be considered the upper limit. 
+			</li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:15px;padding-bottom:0px;">
+		<span style="font-weight:bold;">Inventors Digest Article: </span><br>
+		<table border="0" cellpadding="10" style="width:650px;">
+		<tr>
+			<td style="width:100px">
+			Scott C. 
+			</td>
+			<td style="width:300px">Performance Hospitality Recruiting, Inc.</td>
+			<td>
+			$108,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Michael D. 
+			</td>
+			<td style="width:300px">Advance Maintenance Durham
+			</td>
+			<td>
+			$79,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Gordon W.
+			</td>
+			<td style="width:300px">Lo-Go LLC
+			</td>
+			<td>
+			$85,300 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Anthony P.  
+			</td>
+			<td style="width:300px">Dollar and Up
+			</td>
+			<td>
+			$71,200 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Brandon B.
+			</td>
+			<td style="width:300px">Disciple Construction LLC
+			</td>
+			<td>
+			$59,100 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Stefanie W.
+			</td>
+			<td style="width:300px">Premier Uniform Supply Inc
+			</td>
+			<td>
+			$64,900 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Andrew D.
+			</td>
+			<td style="width:300px">D Glove Guy
+			</td>
+			<td>
+			$51,200  
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Vincent C.
+			</td>
+			<td style="width:300px">Knightsville Ventures, Inc.
+			</td>
+			<td>
+			$98,000  
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Vicki L.
+			</td>
+			<td style="width:300px">Long Livestock LLC
+			</td>
+			<td>
+			$102,550 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Walker H.
+			</td>
+			<td style="width:300px">Bulawama Services, LLC
+			</td>
+			<td>
+			$117,500  
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Mervyn F.
+			</td>
+			<td style="width:300px">Dollar Value
+			</td>
+			<td>
+			$101,100 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Martin R.
+			</td>
+			<td style="width:300px">AzSpec Property Inspections LLC
+			</td>
+			<td>
+			$73,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Bryan B.
+			</td>
+			<td style="width:300px">Five Star Painting
+			</td>
+			<td>
+			$64,400
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Greg A.
+			</td>
+			<td style="width:300px">G A Enterprises Inc.
+			</td>
+			<td>
+			$51,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Jean C.
+			</td>
+			<td style="width:300px">AUCC Corp 
+			</td>
+			<td>
+			$59,500
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			William S.
+			</td>
+			<td style="width:300px">Island Capital Management, PC
+			</td>
+			<td>
+				$59,400 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Marilyn S.
+			</td>
+			<td style="width:300px">Colorado Prime Beef, LLC
+			</td>
+			<td>
+			$141,100 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Henry O.
+			</td>
+			<td style="width:300px">Necessary Solutions
+			</td>
+			<td>
+			$89,300 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Beth M.
+			</td>
+			<td style="width:300px">BPM Co, LLC
+			</td>
+			<td>
+			$61,200  
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Paul S.
+			</td>
+			<td style="width:300px">Dollar Store
+			</td>
+			<td>
+			$116,800 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Cindi J.
+			</td>
+			<td style="width:300px">Alamo Glove Lady
+			</td>
+			<td>
+			$91,250
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Sally D.
+			</td>
+			<td style="width:300px">Jazzy Properties LLC
+			</td>
+			<td>
+			$61,100  
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Gwendolyn C.
+			</td>
+			<td style="width:300px">GG s Custom Furnishings
+			</td>
+			<td>
+			$93,200 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Jon L.
+			</td>
+			<td style="width:300px">Harbor Safe, LLC
+			</td>
+			<td>
+			$74,500
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			John M.
+			</td>
+			<td style="width:300px">JDMM Enterprises, LLC
+			</td>
+			<td>
+			$57,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Donald G.
+			</td>
+			<td style="width:300px">D and J Maintenance LLC
+			</td>
+			<td>
+			$95,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Clara V.
+			</td>
+			<td style="width:300px">AJV Export Inc.
+			</td>
+			<td>
+			$50,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Corinne C.
+			</td>
+			<td style="width:300px">Palmetto Glove and Safety,LLC
+			</td>
+			<td>
+			$79,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Suzan K.
+			</td>
+			<td style="width:300px">Kurtulan LLC
+			</td>
+			<td>
+			$72,300 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Eugenia E.
+			</td>
+			<td style="width:300px">A and A Tires & Wheels, Inc.
+			</td>
+			<td>
+			$84,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Donald P.
+			</td>
+			<td style="width:300px">SIP Print LLC
+			</td>
+			<td>
+			$125,700 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			David S.
+			</td>
+			<td style="width:300px">Davids Foodservice LLC
+			</td>
+			<td>
+			$50,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Alejandro G.
+			</td>
+			<td style="width:300px">G & M Fitness, Inc
+			</td>
+			<td>
+			$60,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Theresa A.
+			</td>
+			<td style="width:300px">Anderson Accupuncture
+			</td>
+			<td>
+				$62,700 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Walter D.
+			</td>
+			<td style="width:300px">Elite Vending LLC
+			</td>
+			<td>
+			$81,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			James K. 
+			</td>
+			<td style="width:300px">Quality Rentals Inc
+			</td>
+			<td>
+			$86,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Ricky O.
+			</td>
+			<td style="width:300px">Dollar Store
+			</td>
+			<td>
+			$62,600 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Marna M. 
+			</td>
+			<td style="width:300px">Santa Cruz Deep Fryer Mgnt LLC
+			</td>
+			<td>
+			$62,200 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Kevin K.
+			</td>
+			<td style="width:300px">Kendall Clan LLC
+			</td>
+			<td>
+			$102,200 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			James Q.
+			</td>
+			<td style="width:300px">JQ Mobile LLC
+			</td>
+			<td>
+			$89,200 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Jeff S.
+			</td>
+			<td style="width:300px">Rezults Realty 
+			</td>
+			<td>
+			$82,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			David T.
+			</td>
+			<td style="width:300px">Signature Event Group
+			</td>
+			<td>
+			$55,200 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Phillip T.
+			</td>
+			<td style="width:300px">Hilltop Market INC
+			</td>
+			<td>
+			$57,800 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Susan J.
+			</td>
+			<td style="width:300px">Yard Doody LLC
+			</td>
+			<td>
+				$53,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			William T.
+			</td>
+			<td style="width:300px">Invest Write Inc
+			</td>
+			<td>
+			$50,700 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			William B.
+			</td>
+			<td style="width:300px">Easy Come Easy Go, LLC
+			</td>
+			<td>
+			$52,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Andre Z. 
+			</td>
+			<td style="width:300px">One Stop Fitness Inc.
+			</td>
+			<td>
+			$67,900 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Jeff N. 
+			</td>
+			<td style="width:300px">Momentum Surf
+			</td>
+			<td>
+			$55,500 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Denise P. 
+			</td>
+			<td style="width:300px">Dogwood Ranch Inc.
+			</td>
+			<td>
+			$52,000 
+			</td>
+		</tr>
+		<tr>
+			<td style="width:100px">
+			Brian B.
+			</td>
+			<td style="width:300px">Equity Alliance
+			</td>
+			<td>
+			$85,500 
+			</td>
+		</tr>
+		</table>
+		</div>
+	</div>
+	<div class="darkbg" style="background-color:#252c3e;">
+		<div class="menu" style="margin:0px auto;text-align:center;height:80px;padding-top:12px;border-bottom:5px solid #f7941e;">
+				<div>
+					<img src="http://www.directfunder.com/mail/logof.png">
+				</div>
+				<div class="copyright" style="color:#c9c8c6;font-size:20px;font-weight:bold;">© 2015 <a href="http://www.directfunder.com" style="color:#c9c8c6;font-size:20px;font-weight:bold;text-decoration:none;">www.DirectFunder.com</a></div>
+		</div>
+	</div>
+</div>
+	
+</body>
+</html>

@@ -1,0 +1,196 @@
+.1 {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 975px;
+	background-color: #f7f7f7;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #333;
+	border-left-color: #333;
+	font-size: 20px;
+	/*font-family: Georgia, "Times New Roman", Times, serif;*/
+	color: #006;
+}
+#wrapper #bodyAreaRight {
+	background-color: #CCC;
+	height: 400px;
+	width: 320px;
+	float: right;
+	clear: right;
+	color: #FFF;
+}
+.p {
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-size: 12px;
+	margin: 15px;
+}
+
+#wrapper #logo {
+	height: 150px;
+	width: 975px;
+}
+#wrapper #header {
+	height: 125px;
+}
+#wrapper #bodyArea {
+	height: 400px;
+	color: #000;
+	font-weight: bold;
+}
+#wrapper #bodyAreaLeft {
+	height: 400px;
+	width: 325px;
+	background-color: #CCC;
+	float: left;
+	clear: left;
+	margin: 0px;
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-size: 16px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	color: #FFF;
+}
+#wrapper #bodyArea #bodyAreaCenter {
+	height: 400px;
+	width: 325px;
+	clear: right;
+	float: left;
+	background-color: #FFF;
+	color: #FFF;
+}
+
+#wrapper #copyright {
+	height: 75px;
+	background-color: #003;
+}
+.aimg {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#wrapper #navigation {
+	height: 35px;
+	border-top-width: medium;
+	border-left-width: medium;
+	border-top-style: double;
+	border-bottom-style: double;
+	border-top-color: #000;
+	border-right-color: #000;
+}
+#wrapper #copyright div p {
+	color: #FFF;
+}
+#wrapper #copyright div p {
+	font-weight: bold;
+}
+.hyperlink {
+	/*font-family: Verdana, Geneva, sans-serif;*/
+	font-size: 18px;
+	color: #000;
+}
+#wrapper #bodyArea #bodyAreaRight1 {
+	clear: right;
+	float: right;
+	height: 400px;
+	width: 425px;
+}
+#wrapper #bodyArea #bodyAreaLeft1 {
+	clear: left;
+	float: left;
+	height: 400px;
+	width: 545px;
+	color: #000;
+	font-size: 16px;
+}
+/*!!!!!!!!!!! QuickMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/
+.horizontalcssmenu ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+float: left;
+}
+
+/*Top level list items*/
+.horizontalcssmenu ul li{
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.horizontalcssmenu ul li a
+{
+display: block;
+width: 6%; /*Width of top level menu link items*/
+padding: 2px 2px;
+font-family: Calibri, Arial, Helvetica, sans-serif;
+border-left-width: 0;
+text-decoration: none;
+color: #000000;
+font-size: 13px;
+font-weight: bold;
+}
+	
+/*Sub level menu*/
+.horizontalcssmenu ul li ul{
+left: 0;
+top: 0;
+border-top: 1px solid #202020;
+position: absolute;
+display: block;
+visibility: hidden;
+z-index: 100;
+}
+
+/*Sub level menu list items*/
+.horizontalcssmenu ul li ul li{
+display: inline;
+float: none;
+}
+
+
+/* Sub level menu links style */
+.horizontalcssmenu ul li ul li a{
+width: 170px; /*width of sub menu levels*/
+font-weight: normal;
+/*padding: 1px 0px;*/
+background: #e3f1bd;
+border-width: 0 1px 1px 1px;
+}
+
+.horizontalcssmenu ul li a:hover
+{
+font-weight: bold;
+font-color:  #cde686;
+}
+
+.horizontalcssmenu ul li ul li a:hover
+{
+background: #cde686;
+}
+
+.horizontalcssmenu .arrowdiv{
+position: absolute;
+right: 0;
+}
+
+* html p#iepara{ /*For a paragraph (if any) that immediately follows menu, add 1em top spacing between the two in IE*/
+padding-top: 1em;
+}
+	
+/*for IE \*/
+* html .horizontalcssmenu ul li { float: left; height: 1%; }
+* html .horizontalcssmenu ul li a { height: 1%; }
+/* End */
+	/*"""""""" [SUB] Parent Items """"""""*/
+	

@@ -1,0 +1,130 @@
+<?php 
+@session_start();
+////ob_start();
+
+//exit();
+if(!isset($_SESSION['user_login']) and !isset($_COOKIE['cookie_login']))//session store admin name
+{
+    header("Location: index.php");//login in AdminLogin.php
+}
+
+require_once("includes/dbconnect.php");
+
+$msg = '';
+
+
+if(isset($_POST["submit"]) and $_POST["submit"] == "Import")
+{
+	$file = $_FILES['csv_file']['tmp_name'];
+	$rec=0;
+	
+								
+	if (isset($file) and $file != "")
+	{
+		if ($handle = fopen($file, "r"))
+		{
+			$is_first = 0;
+			$cnt=0;
+			$agent = $_SESSION['user_login'];
+			$msg = "Importing now...";
+										
+			//while(($filesop = fgetcsv($handle, 1000, ",")) !== false)
+			while(($filesop = fgetcsv($handle)) !== false)
+			{
+				if ($is_first==0)
+				{
+					$is_first=1;
+				}else
+				{
+					
+			        /* No	Name	Supplier	Item Code	Item Type	Item Description	Price Net	Inc Vat	Unit*/     
+		           
+		           
+		           	$name = mysqli_real_escape_string($con,$filesop[1]);
+		           	$supplier = mysqli_real_escape_string($con,$filesop[2]);
+		           	$code = mysqli_real_escape_string($con,$filesop[3]);
+		           	$category = mysqli_real_escape_string($con,$filesop[4]);
+		           	$description = mysqli_real_escape_string($con,$filesop[5]);
+		           	
+		           	$price_net = getRealValue($filesop[6]);
+		           	$inc_vat = mysqli_real_escape_string($con,$filesop[7]);
+		           	$unit = getRealValue($filesop[8]);
+		           	
+		           
+			        $sql = sprintf("insert into materials_info (name,supplier,code,category,description,price_net,inc_vat,unit) VALUES ('%s','%s','%s','%s','%s','%f','%s','%d')",$name,$supplier,$code,$category,$description,$price_net,$inc_vat,$unit);
+					$sql_res = mysqli_query($con,$sql) or die(mysqli_error($con));	
+					$cnt++;
+					
+				}
+								
+			}
+			
+			if($sql_res){
+				$msg="You database has imported successfully. You have inserted ". $cnt ." recoreds";
+				
+			}else{
+				$msg="Sorry! There is some problem.";		
+			}
+			fclose($handle);	
+			
+		}		
+	}
+	
+}	
+		
+?>
+<html>
+<head>
+	<?php include("header.php");?>
+</head>
+<body>
+	<div class="container">
+    	    <?php include("sidebar.php"); ?>
+    	    <div class="main-content">
+        		    <?php include('menu.php'); ?>
+								
+	<form name="frmSearch" method="post" enctype="multipart/form-data" action="import_materials.php">
+		<div class="container">
+			<div class="row" style="marign:0px;margin-top: 10px"> 
+				<div class="col-sm-12">
+					<center>
+						<h2>Import From CSV</h2>
+						<br>
+					</center>
+				</div>
+			</div>			
+	   		<div class="row">
+	   			<div class="my-static-div" style="margin: auto;width:310px">
+		   			<center>
+		   				<div class="panel panel-primary my-panel">
+							
+							<div class="panel-body my-panel-body">
+								<div class='form-row'>
+									<input type="file" class="form-control" name="csv_file"/><br />
+								</div>
+								<div class='form-row'>
+									<div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+										<center>
+											<input type="submit" class='form-control btn btn-success submit-button' name="submit" value="Import" />		
+										</center>
+									</div>																	
+								</div>								
+							</div>
+						</div>	
+						
+		   			</center>
+	   			</div>	   			
+	   		</div>
+	   		<div class="row mobile-row">
+				<div class="col-sm-12">
+					<center>
+						<h5 style="color:blue;"><?php echo $msg;?></h5>
+						<br>
+					</center>
+				</div>
+			</div>
+	   	</div>
+	</form>	
+</div></div>
+</body>
+</html>

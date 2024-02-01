@@ -1,0 +1,42 @@
+
+            .loading {
+                display: none;
+            }
+            .accordion {
+                width:  246px;
+				border:solid 1px #3fa4de;
+				margin:1px;
+            }
+                .accordion li h3 a {
+                    background:             url(../buyer_details_img/acc-bg.jpg) repeat-x left top;
+                    color:                  #000;
+                    display:                block;
+                    font-style:             normal;
+                    margin:                 0;
+                    padding:                5px 10px;
+					height:                 20px;
+					font:        14px Arial, Helvetica, sans-serif;
+                }
+                    .accordion li.active h3 a {
+                       
+                       font:bold        14px Arial, Helvetica, sans-serif;
+                       background:             url(../buyer_details_img/acc-bg.jpg) repeat-x left top;
+                    }
+                    .accordion li.locked h3 a {
+                        background:             #963;
+                        background:             #963 -webkit-gradient(linear, left top, left bottom, from(#c96), to(#963)) no-repeat;
+                        background:             #963 -moz-linear-gradient(top,  #c96,  #963) no-repeat;
+                        border-bottom:          1px solid #630;
+                        border-top:             1px solid #fc9;
+                        text-shadow:            0 -1px 2px #630, #fc9 0 1px 2px;
+                    }
+                .accordion li h3 {
+                    margin:         0;
+                    padding:        0;
+                }
+                .accordion .panel {
+                    padding:        10px;
+                    font-size: 16px;
+                }
+
+

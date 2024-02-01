@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>LimoCRM</title>	
+		
+	</head>
+	<body>
+		<h1 style='text-align: center;'>We Need Your Help!</h1>
+		<p style='text-align: center;'>Help us to improve our service and customer satisfaction.<br />
+		&nbsp;</p>
+		<p style='text-align: center;'>&nbsp;We&#39;re always looking for new ways to serve you better, and no one knows us better than you.&nbsp;Please take a moment to share your feedback, either privately through our <a href='http://www.limo-crm.com/survey'>online survey</a>.<br />
+		<br />
+		Thanks for helping!</p>	
+	</body>
+</html>

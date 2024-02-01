@@ -1,0 +1,491 @@
+body 
+{
+	margin-top : 0;
+	margin-bottom : 0;
+	color: #036;
+	background-color: #FFFFFF;
+	align : center;
+}
+.heading_title
+{
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-size: 19px;
+	color:#000000;
+	font-weight: bold;
+	text-decoration: none;
+	border: 0;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:5px;
+}
+img {border:none;}
+ 
+.sub_heading
+{
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	color:#000000;
+	font-weight: bold;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:5px;
+}
+.up_menu
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/
+	font-weight: normal;
+	font-size:13px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #E9E9E9;
+	border: 1px solid #a0a0a0;
+	width: 800px;
+	behavior:url(css/border-radius.htc);
+	border-radius: 4px; 
+	height: 50px;
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	
+}
+.down_menu
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/            
+	font-weight: normal;
+	font-size:13px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #E9E9E9;
+	height:70px;
+	border: 1px solid #a0a0a0;
+	behavior:url(css/border-radius.htc);
+	border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	
+}
+.table_disp_out
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/            
+	font-weight: normal;
+	font-size:13px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	border: 2px solid #0066FF;
+	behavior:url(css/border-radius.htc);
+	border-radius: 8px; 
+    -moz-border-radius: 8px; 
+    -webkit-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	
+}
+.table_disp_in
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/            
+	font-weight: normal;
+	font-size:13px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	border: 0px solid #a1a1a1;
+	behavior:url(css/border-radius.htc);
+	border-radius: 8px; 
+    -moz-border-radius: 8px; 
+    -webkit-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	
+}
+.left_bar
+{
+	background-color: #E9E9E9;
+}
+.right_bar
+{
+	background-color: #FFCC33;
+}
+.button_small
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/
+	font-weight: bold;
+	font-size:19px;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #006699;
+	height:25px;
+	width: 60px;
+	border: 0px solid #a0a0a0;
+	behavior:url(css/border-radius.htc);
+	border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+}
+.button_medium
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/
+	font-weight: bold;
+	font-size:19px;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #006699;
+	height:40px;
+	width: 80px;
+	border: 0px solid #a0a0a0;
+	behavior:url(css/border-radius.htc);
+	border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+}
+.button_big
+{
+	/*font-family: calibri,verdana,tahoma,arial;*/
+	font-weight: bold;
+	font-size:19px;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #006699;
+	height:40px;
+	width: 120px;
+	border: 0px solid #a0a0a0;
+	behavior:url(css/border-radius.htc);
+	border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+}
+.textbox
+{
+	/*font-family: calibri, Verdana, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	color: #222222;
+	text-decoration: none;
+	border: 1px solid #a0a0a0;
+	background-color:#FFFFFF;
+	height:30px;
+	width:300px;
+}
+.textbox_small
+{
+	/*font-family: calibri, Verdana, Arial, Helvetica, sans-serif;*/
+	font-size: 17px;
+	color: #222222;
+	text-decoration: none;
+	border: 1px solid #a0a0a0;
+	background-color:#FFFFFF;
+	height:25px;
+	width:150px;
+}
+.main_txt
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	font-weight: bold;
+	color: #006699;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.main_txt_green
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 13px;
+	font-weight: bold;
+	color: #009933;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.main_txt_red
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 13px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.title_blue
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	font-weight: normal;
+	color: #006699;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.title_green
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 19px;
+	font-weight: normal;
+	color: #00CC00;
+	text-decoration: none;
+}
+.smalltext_grey
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 13px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+	padding-top:4px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.smalltext_black_2
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 13px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	padding-top:4px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.smalltext_black
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	padding-top:4px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.smalltxt_black
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.alert_msg
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.link_txt
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.link_txt2
+{
+	/*font-family: Calibri, Arial, Helvetica, sans-serif;*/
+	font-size: 15px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+}
+.table_bg
+{
+	/*font-family: calibri,verdana,tahoma,arial;            */
+	font-weight: normal;
+	font-size:13px;
+	color: #666666;
+	text-decoration: none;
+	background-color: #F8F8F8;
+	border: 1px solid #a0a0a0;
+	behavior:url(css/border-radius.htc);
+	border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	
+}
+/************ Google Voice SMS Dialog ******************/
+.gc-bubble-content {
+    min-width: 12em;
+    max-width: 800px;
+}
+.table.gc-bubble-layout {
+    border-collapse: collapse;
+    padding: 0;
+}
+.gc-bubble-tl {
+    height: 8px;
+    background: transparent url('../buyer_details_img/dash-bg.jpg') no-repeat 0 0;
+    vertical-align: bottom;
+    font-size: 0;
+}
+.gc-bubble-quicksms2 .gc-bubble-ml, .gc-bubble-quicksms2 .gc-bubble-mr {
+    height: 200px;
+}
+.gc-bubble-ml {
+    background: transparent url('../buyer_details_img/dash-bg.jpg') no-repeat 0 0;
+    width: 8px;
+    font-size: 0;
+}
+.gc-bubble-mc {
+    background-color: #fff;
+    margin-left: 8px;
+    padding: 4px 6px 4px 6px;
+    vertical-align: middle;
+}
+.gc-quicksms {
+    overflow: auto;
+}
+.gc-quicksms {
+    overflow: auto;
+}
+
+.gc-bubble-ih {
+    font-weight: bold;
+    margin: 6px 0 2px 1px;
+}
+
+.input.gc-text, textarea.gc-text, select.gc-text {
+    border: 1px solid #ddd;
+    border-top: 1px solid #ccc;
+    padding: 3px 0 3px 3px;
+}
+.input, select, textarea, option {
+    font-family: inherit;
+    font-size: inherit;
+}
+.gc-bubble-subg {
+    font-size: 90%;
+    color: #848484;
+    margin: 2px 0 0 2px;
+}
+.gc-quicksms textarea {
+    width: 200px;
+    height: 45px;
+}
+.input.gc-text, textarea.gc-text, select.gc-text {
+    border: 1px solid #ddd;
+    border-top: 1px solid #ccc;
+    padding: 3px 0 3px 3px;
+}
+.gc-quicksms-ctrl {
+    margin-top: 5px;
+}
+.gc .goog-button-base {
+    font-size: 1em;
+}
+.goog-inline-block {
+    display: -moz-inline-box;
+    display: inline-block;
+}
+
+.gc-phone-list-item, .gc-group-list-item, .goog-button-base {
+    font-size: 1em;
+}
+
+.goog-inline-block {
+    position: relative;
+    display: -moz-inline-box;
+    display: inline-block;
+}
+
+.goog-button-base {
+    cursor: default;
+    font: normal 1.3em/1 Arial,sans-serif;
+    letter-spacing: normal;
+    margin: 0 1px;
+    outline: none;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    vertical-align: baseline;
+    white-space: nowrap;
+    word-spacing: normal;
+}
+.goog-button-base-outer-box {
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #aaa;
+}
+.goog-button-base-pos {
+    height: 100%;
+    position: relative;
+}
+.goog-button-base-top-shadow {
+    background: #f9f9f9;
+    border-bottom: .23em solid #eee;
+    height: .692em;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.goog-button-base-content {
+    color: #333;
+    line-height: 1.65em;
+    position: relative;
+    padding: 0 .461em;
+    text-align: center;
+}
+.gc-sms-counter {
+    color: #7999d6;
+    font-weight: bold;
+    font-size: 14px;
+    position: absolute;
+    right: 2px;
+    top: 0;
+}
+.gc-bubble-mc-i {
+    height: 100%;
+    position: relative;
+}
+.gc-bubble-tr {
+    background: transparent url('../buyer_details_img/dash-bg.jpg') no-repeat 0 0;
+    vertical-align: bottom;
+    height: 8px;
+    width: 11px;
+    font-size: 0;
+    overflow: hidden;
+}
+.goog-bubble-close-button {
+    background-image: url('../buyer_details_img/close.png');
+    background-color: white;
+    background-position: top right;
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    position: absolute;
+    top: -2px;
+    right: 10px;
+}
+

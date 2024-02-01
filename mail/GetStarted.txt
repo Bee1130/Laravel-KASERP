@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>DirectFunder</title>	
+	
+</head>
+<body style="margin:0px;">
+<div class="page" style="width:650px">
+	<div class="darkbg">
+		<div class="menu">
+			<div style="padding-top:0px;width:650px;background-color:#252c3e;height:65px;">
+			<table border="0" cellpadding="0" style="width:650px;height:55px;border-bottom:2px solid #f7941e;">
+			<tr>
+			<td style="width:130px;padding-left:10px;vertical-align:bottom;">
+				<a href="http://www.directfunder.com"><img src="http://www.directfunder.com/mail/logo.png"></a>
+			</td>
+			<td style="text-align:right;padding-right:20px;color:#FFFFFF;font-size:22px;padding-top:10px;">
+				Call 800-680-5379
+			</td>
+			</tr>
+			</table>
+			</div>
+		</div>
+	</div>
+	<div class="section-2 cf" style="font-size:14px;width:650px;color:#000000;" >
+		<div style="padding:20px;padding-bottom:0px;text-indent:20px;">Welcome to the DirectFunder! We appreciate your time and look forward to working with you on your business funding needs.</div>
+		<div style="padding:20px;padding-top:5px;padding-bottom:0px;text-indent:20px;">To get started, please visit CreditNav.com and sign up for a detailed credit report. The report is free, and will not show up as an inquiry on your report. Once we have a copy of your Credit Report, we will analyze your credit history and the explain to you in detail the types of lines of credit available to you and your business. 
+		</div>
+		<div style="padding:20px;padding-top:5px;padding-bottom:0px;text-indent:20px;">If your credit score is under our 680 requirement, we still may be able to obtain the necessary funding using a Personal Guarantor. A Personal Guarantor can be a family member, business partner, spouse, or friend who will be able to meet the 680 credit score requirement. Please get back to me as soon as possible with your Creditnav.com report so that I may begin the pre-qualification process. Please send it via e-mail in. PDF format.
+		</div>
+		<div style="padding:20px;padding-bottom:0px;text-indent:20px;color:#f7941e;font-weight:bold;font-style:italic;">DIRECTION FOR SENDING YOUR CREDIT REPORT:
+		</div>
+		<div style="padding:20px;padding-bottom:0px;padding-top:5px;text-indent:20px;">Login to: CreditNav.com (Please write down your username & password for future reference)<br>
+		<ul style="list-style-type:none;text-indent:40px;margin-top:0px;padding-left:0px;color:#f7941e;font-weight:bold;">
+		<li>- &nbsp; &nbsp;<span style="color:#000000;font-weight:normal;">Go to “Report and Aletts” tab, then press the “Print Button” on the top right of the screen under the name.</span></li>
+		<li> - &nbsp; &nbsp;<span style="color:#000000;font-weight:normal;">A new pop up box will appear, click “Print Report” (this will bring up the internal printer box)</span></li>
+		<li>- &nbsp; &nbsp;<span style="color:#000000;font-weight:normal;">Once your Printer box appears: </span></li>
+		<li>- &nbsp; &nbsp;<span style="color:#000000;font-weight:normal;">Select “save as .PDF” under Printer Type or Printer Destination.</span></li>
+		<li>- &nbsp; &nbsp;<span style="color:#000000;font-weight:normal;">Click Print (when using this method, nothing will actually print, rather you will be prompted to save the file)</span></li>
+		<li>- &nbsp; &nbsp;<span style="color:#000000;font-weight:normal;">Save the file to your desktop and attach in an e-mail or fax to me</span></li>
+		</ul>
+		</div>
+		<div style="padding:20px;padding-top:0px;text-indent:20px;padding-bottom:10px;">The sooner we get your report from CreditNav.com, the sooner we can start working to obtain credit lines for you and your business.
+		</div>
+		<div style="padding:20px;padding-top:0px;text-indent:20px;padding-bottom:10px;">Please do not hesitate to reach out to me via telephone or email with any question or concerns that you may have.
+		</div>
+		<div style="padding:20px;padding-top:0px;text-indent:20px;">Remember, getting startup funding and building business credit is a process that takes time and expertise, so the sooner you get started the sooner you will get funded.
+		</div>
+		<div style="padding:20px;padding-top:10px">Thanks,
+		</div>
+		
+	</div>
+	<div class="darkbg" style="background-color:#252c3e;">
+		<div class="menu" style="margin:0px auto;text-align:center;height:80px;padding-top:12px;border-bottom:5px solid #f7941e;">
+				<div>
+					<img src="http://www.directfunder.com/mail/logof.png">
+				</div>
+				<div class="copyright" style="color:#c9c8c6;font-size:20px;font-weight:bold;">© 2015 <a href="http://www.directfunder.com" style="color:#c9c8c6;font-size:20px;font-weight:bold;text-decoration:none;">www.DirectFunder.com</a></div>
+		</div>
+	</div>
+</div>
+	
+</body>
+</html>

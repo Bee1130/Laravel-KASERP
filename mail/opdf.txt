@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	
+</head>
+<body style="margin:0px;">
+<div class="page" style="width:900px">
+	
+	<div class="section-2 cf" style="font-size:16px;width:850px;color:#000000;" >
+		<div>
+		<p><b>1. Certification:</b> I, the undersigned, certify the following: </p>
+		<p>A. I request that Seed Consulting, LLC DBA Seed Capital Corp apply for multiple Credit Lines on my behalf. These may include Bank Cards, Business Credit Cards, Lines of Credit, Bank Loans and Vendor Credit Accounts. Let it be known to all persons that I have given true, lawful and expressed permission to act on my behalf, in my place and in my stead, for the specific and limited purpose of applying for credit accounts, processing and endorsing documentation with regards to those applications and opening of an email account for application correspondence to Seed Capital Corp for a time period of four (4) months from the effective date.</p>
+		<p>B. I have completed the application fields containing personal information and information on the business. I certify that all of the information is true and correct. I made no misrepresentations in the application, nor did I omit any pertinent information. I understand and agree that the potential lenders who receive the applications reserve the right to request documentation to support these statements. This may include verifying the information provided on the application with the applicant or other means.</p>
+		<p>C. I understand that I will be held responsible both personally and jointly with the business for any lines I choose to utilize or authorize any other person to utilize.</p>
+		<p><b>2. Authorization to Release Information:</b></p>
+		<p>A. As part of the application and verification process, I authorize Seed Capital Corp to provide potential lenders via phone, mail, fax, or internet with the information in this document as part of the underwriting process.</p>
+		<p>B. I understand that my personal credit and/or business credit will be reviewed by potential lenders as part of the underwriting process and that this will result in numerous inquiries in my personal and business credit report.</p>
+		</div>
+		<div style="padding:10px;"><br>
+		<p><b>PERSONAL INFORMATION -Please TYPE into the Fields ONLINE then print and sign</b><br></p>
+		</div>
+		<div style="padding:10px;">
+		<p>
+		<table border="0">
+			<tr >
+				<td width="350" height="50">FIRST NAME: {{fName}}
+				</td>
+				<td width="300" height="50">MIDDLE NAME: {{mName}}
+				</td>
+			</tr>
+			<tr height="6">
+				<td width="350" height="50">LAST NAME: {{lName}}
+				</td>
+				<td width="300" height="50">EMAIL: {{Email}}
+				</td>
+			</tr>
+			<tr height="6">
+				<td width="350" height="50">HOME# {{hPhone}}
+				</td>
+				<td width="300" height="50">CELL# {{cPhone}}
+				</td>
+			</tr>
+			<tr height="6">
+				<td width="350" height="50">HOME ADDRESS: {{hAddress}}
+				</td>
+				<td width="300" height="50">YRS AT ADDR: {{Years}}
+				</td>
+			</tr>
+			<tr>
+				<td width="300" height="50">CITY: {{City}}
+				</td>
+				<td width="250" height="50">STATE: {{State}}
+				</td>
+				<td width="250" height="50">ZIP: {{zCode}}
+				</td>
+			</tr>
+			<tr>
+				<td width="300" height="50">DOB {{Dob}}
+				</td>
+				<td width="250" height="50">SS#: {{ss}}
+				</td>
+				<td width="250" height="50">U.S,CITIZEN?: {{usCitizen}}
+				</td>
+			</tr>
+			<tr>
+				<td width="400" height="50">MOTHERS MAIDEN NAME: {{mMaidenName}}
+				</td>
+				<td width="300" height="50">DRIVERS LIC.# {{driveLicense}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">UNIQUE IDENTIFICATION WORD: {{uiWord}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">(Name of Best Friend or Favorite Pet): {{uiWord}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">MY BUSINESS ACCEPTS/WILL ACCEPT CREDIT CARDS AS PAYMENT: {{acceptCreditAspayment}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">I CURRENTLY HAVE A CREDIT CARD MERCHANT ACCOUNT: {{merchantAccount}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">I AM SEEKINGS ${{seeking}} IN NEW CREDIT LINES FOR MY BUSINESS.
+				</td>
+				
+			</tr>
+		</table>
+		</p>
+		</div>
+		<div style="padding:10px;"><p height="20">
+		<b>BUSINESS INFORMATION - PLEASE TYPE INTO FORMS AND ANSWER TO THE BEST OF YOUR ABILITY</b></p>
+		</div>
+		<div style="padding:10px;">
+		<p>
+			<table border="0" cellpadding="0" style="width:100%">
+			<tr>
+				<td width="600" height="50">LEGAL BUSINESS NAME: {{legalBusinessName}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">ENTITY TYPE: {{entityType}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">INDUSTRY TYPE: {{IndustryType}}
+				</td>
+			</tr>
+			<tr>
+				<td width="400" height="50">FEDERAL TAX ID# {{federalTax}}</td>
+				</td>
+			</tr>
+			<tr>
+				<td width="400" height="50">BUSINESS PHONE: {{businessPhone}}</td><td width="300" height="50">FAX: {{fax}}
+				</td>
+			</tr>
+			<tr>
+				<td width="600" height="50">BUSINESS ADDRESS: {{businessAddress}}</td>
+			</tr>
+			<tr>
+				<td width="250" height="50">CITY: {{businessCity}}</td>
+				<td width="250" height="50">STATE: {{businessState}}</td>
+				<td width="300" height="50">ZIP CODE: {{businessZCode}}</td>
+			</tr>
+			<tr>
+				<td width="400" height="50">YEARS IN BUSINESS: {{yearInBusiness}}</td>
+				<td width="300" height="50">NO OF EMPLOYEES: {{employees}}</td>
+			</tr>
+			<tr>
+				<td width="700" height="50">WHAT STATE IS THE BUSINESS REGISTERED IN? {{registeredBusiness}}</td>
+			</tr>
+			<tr>
+				<td width="700" height="50">BUSINESS WEBSITE: {{urlWebsite}}</td>
+			</tr>
+			<tr>
+				<td width="400" height="50">PERSONAL BANK: {{personalBank}}</td>
+				<td width="300" height="50">BUSINESS BANK: {{businessBank}}</td>
+			</tr>
+			<tr>
+				<td width="700" height="50">HAVE ANY BUSINESS CREDIT CARDS THAT DO NOT SHOW ON YOUR PERSONAL CREDIT REPORT? {{dontShowPersonalCredit}}</td>
+			</tr>
+			<tr>
+				<td width="700" height="30">-URL(if Yes, What bank issues them):{{urlShowPersonalCredit}}</td>
+			</tr>
+			<tr>
+				<td width="700" height="50">HAVE A 401k OR IRA: {{haveIRA}}-HOW MUCH (if Yes):{{haveIRAHowMuch}}
+				</td>
+			</tr>
+			</table>
+			<div><p height="3">Please sign up for www.CreditNav.com. You will need to keep the account open for at least 12 months to ensure that you and your Seed Capital Consultant can view inquires and new accounts.
+			</p><br><br></div>
+		</p>
+		<p>
+		<table border="0">
+			<tr>
+				<td width="700" height="20">I GIVE DIRECT FUNDER PERMISSION TO ACCESS MY CREDITNAV.COM CREDIT REPORTS: {{givePermission}}</td>
+			</tr>
+			<tr>
+				<td width="400" height="40">MY CREDIT REPORT USERNAME: {{usrReport}}</td>
+				<td width="300" height="40">PASSWORD:{{pswReport}}</td>
+			</tr>
+		</table>
+		</p>
+		</div>
+		<div style="padding:20px;"><p height="6"><b>FAMILY MILITARY SERVICE:</b> These questions are used to determine eligibility for certain loan programs only offered to individuals with some level of affiliation to the armed forces or public service.</p>
+		<p height="6">Have you or anyone else in your family or household ever served in any branch of the armed forces or as a reservist?{{haveFMService}} - If yes, who:{{whoFMService}}</p>
+		<p height="6">Have you or anyone else in your family or household ever worked for the Department of Defense or for a DoD contractor?{{haveAnyoneElse}} - If yes, who:{{whoAnyoneElse}}</p>
+		<p height="18">
+		<table border="0">
+		<tr>
+		<td width="700" height="20" align="CENTER">
+		<b><u>PLEASE SIGN AND NOTARIZE</u></b>
+		</td>
+		</tr>
+		</table>
+		</p>
+		<p>I hereby certify that to the best of my knowledge all the information provided is true and correct.</p>
+		<p height="8"><b>AUTHORIZED SIGNATORY:</b></p>
+		<p height="18"><b>EFFECTIVE DATE:</b></p>
+		</div>
+		
+	</div>
+	
+</div>
+	
+</body>
+</html>

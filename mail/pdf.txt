@@ -1,0 +1,223 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>DirectFunder</title>	
+	
+</head>
+<body style="margin:0px;">
+<div class="page" style="width:650px">
+	<div class="darkbg">
+		<div class="menu">
+			<div style="padding-top:0px;width:650px;background-color:#252c3e;height:65px;">
+			<table border="0" cellpadding="0" style="width:650px;height:55px;border-bottom:2px solid #f7941e;">
+			<tr>
+			<td style="width:130px;padding-left:10px;vertical-align:bottom;">
+				<a href="http://www.directfunder.com"><img src="http://www.directfunder.com/mail/logo.png"></a>
+			</td>
+			<td style="text-align:right;padding-right:20px;color:#FFFFFF;font-size:22px;padding-top:10px;">
+				Call 800-680-5379
+			</td>
+			</tr>
+			</table>
+			</div>
+		</div>
+	</div>
+	<div class="section-2 cf" style="font-size:16px;color:#000000;" >
+		<div style="padding:10px;">IP Address: {{ipAddress}}</div>
+		<div style="padding:10px;padding-bottom:0px;">
+		<span style="font-weight:bold;text-decoration:underline">PERSONAL INFORMATION -Please TYPE into the Fields ONLINE then print and sign</span>
+		</div>
+		<div style="padding:10px;">
+		<table border="0" cellpadding="0" style="width:100%">
+			<tr>
+				<td>FIRST NAME: </td><td>{{fName}}
+				</td>
+			</tr>
+			<tr>
+				<td>MIDDLE NAME: </td><td>{{mName}}
+				</td>
+			</tr>
+			<tr>
+				<td >LAST NAME: </td><td>{{lName}}
+				</td>
+			</tr>
+			<tr>
+				<td >
+				</td>
+			</tr>
+			<tr>
+				<td>EMAIL: </td><td>{{Email}}
+				</td>
+			</tr>
+			<tr>
+				<td >HOME phone: </td><td>{{hPhone}}
+				</td>
+			</tr>
+			<tr>
+				<td>Cell phone: </td><td>{{cPhone}}
+				</td>
+			</tr>
+			<tr>
+				<td>Home Address: </td><td>{{hAddress}}
+				</td>
+			</tr>
+			<tr>
+				<td>From Year: </td><td>{{Years}}
+				</td>
+			</tr>
+			<tr>
+				<td>City: </td><td>{{City}}
+				</td>
+			</tr>
+			<tr>
+				<td>State:</td><td>{{State}}
+				</td>
+			</tr>
+			<tr>
+				<td>Zip Code: </td><td>{{zCode}}
+				</td>
+			</tr>
+			<tr>
+				<td>Date of birth: </td><td>{{Dob}}
+				</td>
+			</tr>
+			<tr>
+				<td>SS#:</td><td>{{ss}}
+				</td>
+			</tr>
+			<tr>
+				<td>US CITIZEN: </td><td>{{usCitizen}}
+				</td>
+			</tr>
+			<tr>
+				<td >Mother's Maiden Name: </td><td>{{mMaidenName}}
+				</td>
+			</tr>
+			<tr>
+				<td>Driver's License: </td><td>{{driveLicense}}
+				</td>
+			</tr>
+			<tr>
+				<td>Unique Identification Word:</td><td>{{uiWord}}
+				</td>
+			</tr>
+			<tr>
+				<td>Business accept credit cards as payment:</td><td>{{acceptCreditAspayment}}
+				</td>
+			</tr>
+			<tr>
+				<td>Currently have a credit card account:</td><td>{{merchantAccount}}
+				</td>
+			</tr>
+			<tr>
+				<td>Seeking:</td><td>{{seeking}}
+			</td>
+			</tr>
+		</table>
+		</div>
+		<div style="padding:10px;">
+		<span style="font-weight:bold;text-decoration:underline">BUSINESS INFORMATION</span>
+		</div>
+		<div style="padding:10px;">
+		<table border="0" cellpadding="0" style="width:100%">
+			<tr>
+				<td>Legal Business Name:</td><td>{{legalBusinessName}}
+				</td>
+			</tr>
+			<tr>
+				<td>Entity type: </td><td>{{entityType}}
+				</td>
+			</tr>
+			<tr>
+				<td>Industry type: </td><td>{{IndustryType}}
+				</td>
+			</tr>
+			<tr>
+				<td>Federal Tax ID#: </td><td>{{federalTax}}
+				</td>
+			</tr>
+			<tr>
+				<td>Business Phone: </td><td>{{businessPhone}}
+				</td>
+			</tr>
+			<tr>
+				<td>Fax: </td><td>{{fax}}
+				</td>
+			</tr>
+			<tr>
+				<td>Business Address: </td><td>{{businessAddress}}
+				</td>
+			</tr>
+			<tr>
+				<td>City: </td><td>{{businessCity}}
+				</td>
+			</tr>
+			<tr>
+				<td>State: </td><td>{{businessState}}
+				</td>
+			</tr>
+			<tr>
+				<td>Zip Code: </td><td>{{businessZCode}}
+				</td>
+			</tr>
+			<tr>
+				<td>Years in Business: </td><td>{{yearInBusiness}}
+				</td>
+			</tr>
+			<tr>
+				<td>No Employees: </td><td>{{employees}}
+				</td>
+			</tr>
+			<tr>
+				<td>State is registered in: </td><td>{{registeredBusiness}}
+				</td>
+			</tr>
+			<tr>
+				<td>Website: </td><td>{{urlWebsite}}
+				</td>
+			</tr>
+			<tr>
+				<td>Personal Bank: </td><td>{{personalBank}}
+				</td>
+			</tr>
+			<tr>
+				<td>Business Bank: </td><td>{{businessBank}}
+				</td>
+			</tr>
+			<tr>
+				<td>URL Business Credit Cards: </td><td>{{dontShowPersonalCredit}}({{urlShowPersonalCredit}})
+				</td>
+			</tr>
+			<tr>
+				<td> 401k or IRA: </td><td>{{haveIRA}}({{haveIRAHowMuch}})
+				</td>
+			</tr>
+			<tr>
+				<td>Credit report username on Crediitnav.com:</td><td>{{usrReport}}
+				</td>
+			</tr>
+			<tr>
+				<td>Password:</td><td>{{pswReport}}
+				</td>
+			</tr>
+		</table>
+		</div>
+		<div style="padding:20px;font-weight:bold;text-decoration:underline;padding-bottom:0px;padding-top:0px;">FAMILY MILITARY SERVICE</div>
+		<div style="padding:20px;padding-bottom:0px;padding-top:0px;">Anyone in family or Household have served in Brand of armed forced or as a reservist: {{haveFMService}}({{whoFMService}})</div>
+		<div style="padding:20px;padding-bottom:0px;padding-top:0px;">Anyone in family or Household have worked for the department of defense or for do dod contractor: {{haveAnyoneElse}}({{whoAnyoneElse}})</div>
+		</div>
+	</div>
+	<div class="darkbg" style="background-color:#252c3e;">
+		<div class="menu" style="margin:0px auto;text-align:center;height:80px;padding-top:12px;border-bottom:5px solid #f7941e;">
+				<div>
+					<img src="http://www.directfunder.com/mail/logof.png">
+				</div>
+				<div class="copyright" style="color:#c9c8c6;font-size:20px;font-weight:bold;">© 2015 <a href="http://www.directfunder.com" style="color:#c9c8c6;font-size:20px;font-weight:bold;text-decoration:none;">www.DirectFunder.com</a></div>
+		</div>
+	</div>
+</div>
+	
+</body>
+</html>
